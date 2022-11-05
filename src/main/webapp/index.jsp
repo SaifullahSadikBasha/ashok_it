@@ -1,9 +1,10 @@
 <html>
 <body>
-<h1><font color='red'>Welcome to Ashok IT <font></h1>
-<h2>Learn Here.. Lead Anywhere..!! </h2>
+<h1><font color='red'>Welcome to Limra Bags <font></h1>
+<h2>For everyone of the world </h2>
+<h3>Feel the comfort <h3>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+
 
 </body>
 </html>
